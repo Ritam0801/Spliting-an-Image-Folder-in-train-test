@@ -73,7 +73,7 @@ def img_train_test_split(img_source_dir, train_size):
 if __name__=="__main__":
 	img_train_test_split(img_source_dir,train_size)
 	
-
+	
 """
 Output :
 Copied 1009 images to data/train/COVID
